@@ -15,10 +15,10 @@
 	<!-- Columna derecha -->
 	<div class="about-right col s9 valign-wrapper ">
 		<div class="col s6 about-right-left">
-			<p class="truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in maximus mi, venenatis fringilla ex. Nullam eu turpis blandit leo mattis imperdiet. Quisque nulla mauris, commodo sit amet nibh non, fermentum mollis nulla. Nulla facilisi. In pretium dictum porta. Fusce cursus ultrices metus porta tincidunt. Phasellus sodales rhoncus felis, eu laoreet justo vulputate eu. Vivamus sit amet turpis sed felis fringilla blandit vel ultrices lectus. </p>
+			<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in maximus mi, venenatis fringilla ex. Nullam eu turpis blandit leo mattis imperdiet. Quisque nulla mauris, commodo sit amet nibh non, fermentum mollis nulla. Nulla facilisi. In pretium dictum porta. Fusce cursus ultrices metus porta tincidunt. Phasellus sodales rhoncus felis, eu laoreet justo vulputate eu. Vivamus sit amet turpis sed felis fringilla blandit vel ultrices lectus. </p>
 		</div>
 		<div class="col s6 about-right-right">
-			<p class="truncate">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in maximus mi, venenatis fringilla ex. Nullam eu turpis blandit leo mattis imperdiet. Quisque nulla mauris, commodo sit amet nibh non, fermentum mollis nulla. Nulla facilisi. In pretium dictum porta. Fusce cursus ultrices metus porta tincidunt. Phasellus sodales rhoncus felis, eu laoreet justo vulputate eu. Vivamus sit amet turpis sed felis fringilla blandit vel ultrices lectus. </p>
+			<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in maximus mi, venenatis fringilla ex. Nullam eu turpis blandit leo mattis imperdiet. Quisque nulla mauris, commodo sit amet nibh non, fermentum mollis nulla. Nulla facilisi. In pretium dictum porta. Fusce cursus ultrices metus porta tincidunt. Phasellus sodales rhoncus felis, eu laoreet justo vulputate eu. Vivamus sit amet turpis sed felis fringilla blandit vel ultrices lectus. </p>
 		</div>
 	</div>
 

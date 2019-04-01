@@ -3,7 +3,7 @@
       <div class="nav-wrapper">
         <div class="row">
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-          <div class="col s2 logo">
+          <div class="col l2 logo">
             <a href="#!" class="right brand-logo">BALA<span>NCE</span><span class="vertical-divider">|</span></a>
           </div>
           <div class="col s10">

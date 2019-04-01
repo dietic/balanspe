@@ -1,4 +1,10 @@
 
+/* Variables */
+$extra-large: 1200px;
+$large: 992px;
+$medium: 600px;
+
+
 /* Keyframes */
 
 @keyframes scale {
@@ -39,6 +45,11 @@
 body{
 	font-family: 'AlegreyaSansSC', sans-serif;
 }
+
+.contenedor{
+	width: 100%;
+}
+
 .fixed-top{
 	position: fixed;
 	top: 0;
@@ -87,6 +98,25 @@ nav{
 	}	
 }
 
+@media(max-width:$large){
+	.sidenav-trigger{
+		i{
+			color: rgba(170, 193, 216, 1.0);
+		}
+	}
+	.sidenav-overlay{
+		z-index: 2;
+	}
+	.logo{
+		left: 50%;
+		.vertical-divider{
+			display: none;
+		}
+	}
+
+
+}
+
 .home-section{
 	position: relative;
 	height: 100vh;
@@ -108,9 +138,10 @@ nav{
 		margin: 0;
 		width: 100%;
 		color: white;
-		letter-spacing: 5px;
+		letter-spacing: 2px;
 		text-transform: uppercase;
 		font-weight: bold;
+		font-size: 3em;
 		/* text-shadow: 1px 1px 1px gray; */
 	}
 }
@@ -142,6 +173,42 @@ nav{
 
 			padding-left: 20px;
 			text-align: justify;
+		}
+	}
+}
+
+@media(max-width:$large){
+	.about-section{
+		height: auto;
+		/* background-color: red; */
+		.about-left{
+			padding: 30px 0;
+			height: 50vh;
+			/* background-color: blue; */
+		}
+
+		.about-right{
+			/* background-color: purple; */
+			padding: 0;
+			.row{
+				margin: 0;
+				.about-right-left{
+					padding: 0 60px;
+					padding-bottom: 20px;
+					p{
+						margin: 0;
+					}
+				}
+				.about-right-right{
+					padding: 0 60px;
+					padding-bottom: 20px;
+					
+					p{
+						margin: 0;
+					}
+				}
+
+			}
 		}
 	}
 }
@@ -215,7 +282,7 @@ nav{
 					}
 					img{
 						animation: 1s ease 0s normal forwards 1 fadein;
-						width: 100px;
+						height: 62.5px;
 					}
 					&:after{
 						content:'';
@@ -324,7 +391,7 @@ nav{
 					}
 					img{
 						animation: 1s ease 0s normal forwards 1 fadein;
-						width: 100px;
+						height: 62.5px;
 					}
 					&:after{
 						content:'';
@@ -359,7 +426,7 @@ nav{
 					} 
 					img{
 						animation: 1s ease 0s normal forwards 1 fadein;
-						width: 100px;
+						height: 62.5px;
 					}
 					&:after{
 						content:'';
@@ -406,12 +473,22 @@ nav{
 						z-index: 3;
 					}
 				}
-			}
-			
+			}	
 		}
-
 	}
 }
+
+@media(max-width:$large){
+	.features-section{
+		z-index: 2;
+		.row{
+			.features-left{
+				padding: 20px 0;
+			}
+		}
+	}
+}
+
 
 .slide-down-container{
 	z-index: 4;

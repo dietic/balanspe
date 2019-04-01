@@ -17,4 +17,5 @@
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+<div class="contenedor">
 <?php include 'navbar.php'; ?>

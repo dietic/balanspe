@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'; ?>
 <div id="home" class="home-section valign-wrapper">
-	<h2>Profesionales en servicios administrativos y contables</h2>
+	<h2>Profesionales en servicios <br>administrativos y contables</h2>
 	<div class="slide-down-container">
 		<h6 class="down-cat">Nosotros</h6>
 		<a href="#about"><i class="slide-down-arrow center material-icons">keyboard_arrow_down</i></a>

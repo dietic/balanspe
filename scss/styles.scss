@@ -56,6 +56,23 @@ body{
 	width: 100%;
 	z-index: 3;
 }
+
+.sidenav{
+	li{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		.navbar-brand-logo{
+			font-size: 2.1rem;
+			color: black;
+			span{
+				/* color: #AAF0D1; */
+				color: rgba(170, 193, 216, 1.0);
+			}
+		}
+
+	}
+}
+
 nav{
 	height: auto;
 	background-color: white;

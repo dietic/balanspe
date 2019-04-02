@@ -21,6 +21,7 @@
     </nav>
 
     <ul class="sidenav" id="mobile-demo">
+      <li><a href="#home" class="navbar-brand-logo">BAL<span>ANS</span></a></li>
       <li><a href="#home">Inicio</a></li>
       <li><a href="#about">Nosotros</a></li>
       <li><a href="#">Servicios</a></li>

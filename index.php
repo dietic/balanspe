@@ -51,14 +51,16 @@
 					<p>OBJETIVIDAD</p>
 				</div>
 				<div class="col s6 l4 features-swap-icon features-right-top-three">
-					<img src="img/hand-shake-thin-white.png" alt="">
+					<img class="hide-on-med-and-down" src="img/hand-shake-thin-white.png" alt="">
+					<img class="hide-on-med-and-up" src="img/hand-shake-thin-black.png" alt="">
 					<p>COMPROMISO</p>
 				</div>
 
 			</div>
 			<div class="row features-right-bottom">
 				<div class="col s6 l4 features-swap-icon features-right-bottom-one ">
-					<img src="img/checklist-black.png" alt="">
+					<img class="hide-on-med-and-down" src="img/checklist-black.png" alt="">
+					<img class="hide-on-med-and-up" src="img/checklist-white.png" alt="">
 					<p>RESPONSABILIDAD</p>
 				</div>
 				<div class="col s6 l4 features-swap-icon features-right-bottom-two ">

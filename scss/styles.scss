@@ -48,7 +48,6 @@ body{
 }
 
 .contenedor{
-	width: 100vw;
 	/* background-color: red; */
 }
 	
@@ -137,6 +136,8 @@ nav{
 
 }
 
+
+
 .home-section{
 	position: relative;
 	height: 100vh;
@@ -163,6 +164,17 @@ nav{
 		font-weight: bold;
 		font-size: 3em;
 		/* text-shadow: 1px 1px 1px gray; */
+	}
+}
+
+@media(max-width:$large){
+	.home-section{
+		.slide-down-container{
+			display: block;
+		}
+		h2{
+			font-size: 1.5em;
+		}
 	}
 }
 
@@ -203,7 +215,7 @@ nav{
 		/* background-color: red; */
 		.about-left{
 			padding: 30px 0;
-			height: 50vh;
+			height: 20vh;
 			/* background-color: blue; */
 		}
 
@@ -501,9 +513,11 @@ nav{
 @media(max-width:$large){
 	.features-section{
 		z-index: 2;
+		background: none;
 		.row{
 			.features-left{
 				padding: 20px 0;
+				height: 20vh;
 			}
 			.features-right{
 				&-top{
@@ -529,6 +543,9 @@ nav{
 					}
 				}
 			}
+		}
+		.slide-down-container{
+			display: block;
 		}
 	}
 }

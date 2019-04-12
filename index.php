@@ -1,4 +1,7 @@
 <?php include 'includes/header.php'; ?>
+
+
+<!-- ESCENA 1 -->
 <div id="home" class="home-section valign-wrapper">
 	<h2>Profesionales en servicios <br>administrativos y contables</h2>
 	<div class="slide-down-container">
@@ -6,6 +9,10 @@
 		<a href="#about"><i class="slide-down-arrow center material-icons">keyboard_arrow_down</i></a>
 	</div>	
 </div>
+
+
+
+<!-- ESCENA 2-->
 <div id="about" class="row about-section">
 	<!-- Columna izquierda -->
 	<div class="about-left col s12 l3 valign-wrapper">
@@ -25,11 +32,6 @@
 	</div>
 
 </div>
-
-
-
-
-
 
 
 <div id="features" class="row features-section">
@@ -74,7 +76,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="slide-down-container">
+	<div class="slide-down-container" style="display:none;">
 		<h6 class="down-cat">Servicios</h6>
 		<a href="#about"><i class="slide-down-arrow center material-icons">keyboard_arrow_down</i></a>
 	</div>

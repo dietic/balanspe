@@ -4,7 +4,7 @@
         <div class="row valign-wrapper">
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
           <div class="col l2 logo valign-wrapper">
-            <img src="img/balans-bn-4.png" alt="">
+            <img src="img/balans-bn-3.png" alt="">
             <!-- <a href="#home" class="right brand-logo">BAL<span>ANS</span><span class="vertical-divider">|</span></a> -->
           </div>
           <div class="col s10">

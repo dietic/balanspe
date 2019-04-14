@@ -3,11 +3,11 @@
       <div class="nav-wrapper">
         <div class="row valign-wrapper">
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-          <div class="col l2 logo valign-wrapper">
-            <img src="img/balans-bn-3.png" alt="">
+          <div class="col s12 l2 logo valign-wrapper">
+            <img src="img/balans-bn-3-noslogan.png" alt="">
             <!-- <a href="#home" class="right brand-logo">BAL<span>ANS</span><span class="vertical-divider">|</span></a> -->
           </div>
-          <div class="col s10">
+          <div class="col l10">
             <div class="col s6 offset-s3" >
               <ul class="hide-on-med-and-down">
                 <li><a href="#home">Inicio</a></li>
@@ -21,8 +21,9 @@
       </div>
     </nav>
 
-    <ul class="sidenav" id="mobile-demo">
-      <li><a href="#home" class="navbar-brand-logo">BAL<span>ANS</span></a></li>
+    <ul class="sidenav" id="mobile-demo"><!-- 
+      <li><a href="#home" class="navbar-brand-logo">BAL<span>ANS</span></a></li> -->
+      <li><a href="#home" class="navbar-brand-logo"><img src="img/balans-bn-3-noslogan.png" alt=""></a></li>
       <li><a href="#home"><i class="material-icons">home</i>Inicio</a></li>
       <li><a href="#about"><i class="material-icons">format_bold</i>Nosotros</a></li>
       <li><a href="#"><i class="material-icons">supervisor_account</i>Servicios</a></li>

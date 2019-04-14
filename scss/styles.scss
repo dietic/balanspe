@@ -66,6 +66,9 @@ body{
 		.navbar-brand-logo{
 			font-size: 2.1rem;
 			color: black;
+			img{
+				height: 2rem;
+			}
 			span{
 				/* color: #AAF0D1; */
 				color: rgba(170, 193, 216, 1.0);
@@ -85,7 +88,7 @@ nav{
 			margin-bottom: 0;
 			.logo{
 				img{
-					height: 45px;
+					height: 2rem;
 				}
 				.brand-logo{
 					position: inherit;
@@ -131,6 +134,9 @@ nav{
 	}
 	.logo{
 		left: 50%;
+		img{
+			margin: 0 auto;
+		}
 		.vertical-divider{
 			display: none;
 		}

@@ -8,7 +8,7 @@
             <!-- <a href="#home" class="right brand-logo">BAL<span>ANS</span><span class="vertical-divider">|</span></a> -->
           </div>
           <div class="col l10">
-            <div class="col s6 offset-s3" >
+            <div class="col s10 offset-s3" >
               <ul class="hide-on-med-and-down">
                 <li><a href="#home">Inicio</a></li>
                 <li><a href="#about">Nosotros</a></li>

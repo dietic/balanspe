@@ -507,7 +507,7 @@ nav{
 					transition: ease all .3s;
 				    padding-top: 40px;
 	    			text-align: center;
-					z-index: 4;s
+					z-index: 4;
 					/* background-color: cyan; */
 					p{
 						letter-spacing: 2px;
@@ -662,6 +662,7 @@ nav{
 			height: auto;
 			min-height: 0;
 			max-height: none;
+			padding-bottom: 30px;
 			.services-wrapper{
 				.services-left{
 						height: 20vh;
@@ -698,6 +699,19 @@ nav{
 }
 
 
+
+
+
+.page-footer{
+	background-color: rgba(170,193,216,0.6);
+	.container{
+
+	}
+	.footer-copyright{
+		background-color: rgba(170,193,216,1);
+
+	}
+}
 
 .slide-down-container{
 	z-index: 2;

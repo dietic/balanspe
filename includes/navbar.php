@@ -12,7 +12,7 @@
               <ul class="hide-on-med-and-down">
                 <li><a href="#home">Inicio</a></li>
                 <li><a href="#about">Nosotros</a></li>
-                <li><a href="#">Servicios</a></li>
+                <li><a href="#services">Servicios</a></li>
                 <li><a href="#">Contacto</a></li>
               </ul>
             </div>
@@ -26,7 +26,7 @@
       <li><a href="#home" class="navbar-brand-logo"><img src="img/balans-bn-3-noslogan.png" alt=""></a></li>
       <li><a href="#home"><i class="material-icons">home</i>Inicio</a></li>
       <li><a href="#about"><i class="material-icons">format_bold</i>Nosotros</a></li>
-      <li><a href="#"><i class="material-icons">supervisor_account</i>Servicios</a></li>
+      <li><a href="#services"><i class="material-icons">supervisor_account</i>Servicios</a></li>
       <li><a href="#"><i class="material-icons">email</i>Contacto</a></li>
     </ul>
   </div>

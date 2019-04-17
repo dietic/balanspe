@@ -54,7 +54,7 @@
 				</div>
 				<div class="col s6 l4 features-swap-icon features-right-top-three">
 					<img class="hide-on-med-and-down" src="img/hand-shake-thin-white.png" alt="">
-					<img class="hide-on-med-and-up" src="img/hand-shake-thin-black.png" alt="">
+					<img class="hide-on-med-and-up show-on-medium" src="img/hand-shake-thin-black.png" alt="">
 					<p>COMPROMISO</p>
 				</div>
 
@@ -62,7 +62,7 @@
 			<div class="row features-right-bottom">
 				<div class="col s6 l4 features-swap-icon features-right-bottom-one ">
 					<img class="hide-on-med-and-down" src="img/checklist-black.png" alt="">
-					<img class="hide-on-med-and-up" src="img/checklist-white.png" alt="">
+					<img class="hide-on-med-and-up show-on-medium" src="img/checklist-white.png" alt="">
 					<p>RESPONSABILIDAD</p>
 				</div>
 				<div class="col s6 l4 features-swap-icon features-right-bottom-two ">
@@ -80,7 +80,6 @@
 		<h6 class="down-cat">Servicios</h6>
 		<a href="#about"><i class="slide-down-arrow center material-icons">keyboard_arrow_down</i></a>
 	</div>
-	
 </div>
 
 
@@ -96,7 +95,7 @@
 				<div class="col s12 l4 service service-one-wrapper">
 					<div class="service-block serivce-one">
 						<div class="row service-img valign-wrapper">
-							<img src="img/strategy-black.png" alt="">
+							<img src="img/strategy-blue.png" alt="">
 						</div>
 						<div class="row service-text">
 							<div class="service-title">
@@ -113,7 +112,7 @@
 				<div class="col s12 l4 service service-one-wrapper">
 					<div class="service-block serivce-two">
 						<div class="row service-img valign-wrapper">
-							<img src="img/strategy-black.png" alt="">
+							<img src="img/strategy-blue.png" alt="">
 						</div>
 						<div class="row service-text">
 							<div class="service-title">
@@ -129,7 +128,7 @@
 				<div class="col s12 l4 service service-one-wrapper">
 					<div class="service-block serivce-three">
 						<div class="row service-img valign-wrapper">
-							<img src="img/strategy-black.png" alt="">
+							<img src="img/strategy-blue.png" alt="">
 						</div>
 						<div class="row service-text">
 							<div class="service-title">

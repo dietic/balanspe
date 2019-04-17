@@ -8,6 +8,7 @@
             <ul>
             	<li><a href="#"><i class="fab fa-facebook-square"></i>facebook.com/balanspe</a></li>
             	<li><i class="fas fa-phone"></i> +511 999 999 999</li>
+            	<li><i class="fas fa-envelope"></i> minfante@balans.pe</li>
             </ul>
           </div>
           <div class="col l4 offset-l2 s12">

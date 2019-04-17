@@ -1,11 +1,14 @@
 
 	
 	<footer class="page-footer">
-      <div class="container">
+      <div class="container contact-wrapper">
         <div class="row">
-          <div class="col l6 s12">
-            <h5 class="white-text">Footer Content</h5>
-            <p class="white-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+          <div class="col l6 s12 contact">
+            <h5 class="white-text">Contacto</h5>
+            <ul>
+            	<li><a href="#"><i class="fab fa-facebook-square"></i>facebook.com/balanspe</a></li>
+            	<li><i class="fas fa-phone"></i> +511 999 999 999</li>
+            </ul>
           </div>
           <div class="col l4 offset-l2 s12">
             <h5 class="white-text">Navegación</h5>

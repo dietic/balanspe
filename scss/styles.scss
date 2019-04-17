@@ -704,8 +704,26 @@ nav{
 
 .page-footer{
 	background-color: rgba(170,193,216,0.6);
-	.container{
-
+	.contact-wrapper{
+		.contact{
+			ul{
+				li{
+					a{
+						text-transform: lowercase;
+						color: white;
+						text-decoration: none;
+						&:hover{
+							text-decoration: none;
+							color: white;
+						}
+					}
+					i{
+						font-size: 0.8rem;
+						margin-right: 10px;
+					}
+				}
+			}
+		}
 	}
 	.footer-copyright{
 		background-color: rgba(170,193,216,1);
